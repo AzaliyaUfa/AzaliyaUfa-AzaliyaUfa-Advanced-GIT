@@ -9,5 +9,7 @@ public class Main {
         }
         System.out.println("No more bottles of beer on the wall, no more bottles of beer\n" +
                 "We've taken them down and passed them around; now we're drunk and passed out!");
+        System.out.println("Go to the store and buy some more, 99 bottles of beer on the wall...");
+        System.out.println("If that one bottle should happen to fall, what a waste of alcohol!");
     }
 }
